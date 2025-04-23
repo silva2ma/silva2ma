@@ -1,3 +1,4 @@
+![Sem título](https://github.com/user-attachments/assets/718534c6-3ca9-4168-9229-736046a657c4)
 
 Hi there 👋 I'm Marcella Rodrigues.
 
@@ -32,4 +33,4 @@ I dream of traveling to every continent 🌍 and one day opening my own tech+des
 ---
 
 _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
-![Sem título](https://github.com/user-attachments/assets/718534c6-3ca9-4168-9229-736046a657c4)
+
